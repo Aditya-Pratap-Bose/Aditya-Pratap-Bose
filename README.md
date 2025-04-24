@@ -2,6 +2,8 @@
 
 ![Codewars](https://www.codewars.com/users/Aditya8k1%20/badges/large)
 
+### HackerRank Badge:
+![Python Badge](https://hrcdn.net/fcore/assets/badges/python-f70befd824.svg)
 Hey there! I'm a recent school graduate exploring the world of programming.  
 Python is my main focus right now — learning the basics, practicing small projects, and slowly leveling up.
 
