@@ -2,6 +2,9 @@
 
 ![Codewars](https://www.codewars.com/users/Aditya8k1%20/badges/large)
 
+![HackerRank Certificate](https://www.hackerrank.com/certificates/iframe/02589604427c)
+
+
 Hey there! I'm a recent school graduate exploring the world of programming.  
 Python is my main focus right now — learning the basics, practicing small projects, and slowly leveling up.
 
