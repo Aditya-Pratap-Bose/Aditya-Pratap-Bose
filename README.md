@@ -2,7 +2,9 @@
 
 ![Codewars](https://www.codewars.com/users/Aditya8k1%20/badges/large)
 
-![HackerRank Certificate](https://www.hackerrank.com/certificates/iframe/02589604427c)
+### Certifications
+
+- [Python (Basic) - HackerRank](https://github.com/Aditya-Pratap-Bose/Aditya-Pratap-Bose/blob/e293c930f74ba53b05919a4ba3871da1fba3cc2a/python_basic%20certificate.pdf_20250429_145022_0000.png)
 
 
 Hey there! I'm a recent school graduate exploring the world of programming.  
