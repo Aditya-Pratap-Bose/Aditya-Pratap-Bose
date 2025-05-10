@@ -15,7 +15,7 @@ Python is my main focus right now — learning the basics, practicing small proj
 ## Aditya's Personal Python Modules Master Handbook
 
 **Link:** [Read the handbook](https://drive.google.com/drive/folders/1KsRBlBs0BPwhBn8mjhJlNWc3Eg_VbHGc)  
-_Still in progress. You can suggest edits or improvements via issues or pull requests._
+_Still in progress. You can read it here,, suggest edits or improvements._
 
 ## Skills
 
