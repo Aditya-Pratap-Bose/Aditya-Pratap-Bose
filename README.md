@@ -19,7 +19,7 @@ _Still in progress. You can read it here,, suggest edits or improvements._
 
 - **Languages:** Python (just started , beginner-intermediate)
 - **Tools:** VS Code, Git, GitHub  
-- **Learning Areas:** pygame, file handling, wispher
+- **Learning Areas:** OOPs, File handling, Data anylysis 
 
 ---
 
