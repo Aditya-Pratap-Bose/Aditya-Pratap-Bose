@@ -1,34 +1,45 @@
-# Hey, I'm Aditya Pratap Bose!
+# Hi, I'm Aditya Pratap Bose 👋
 
-### Certifications
-
-- [Python (Basic) - HackerRank](https://github.com/Aditya-Pratap-Bose/Aditya-Pratap-Bose/blob/e293c930f74ba53b05919a4ba3871da1fba3cc2a/python_basic%20certificate.pdf_20250429_145022_0000.png)
-
-
-Hey there! I'm a recent school graduate exploring the world of programming.  
-Python is my main focus right now — learning the basics, practicing small projects, and slowly leveling up.
+A high school graduate, eager to explore tech at my own pace.  
+Currently diving into the world of code — one line, one bug, one breakthrough at a time.  
+Will be pursuing graduation in tech soon. Meanwhile, experimenting, learning, building.
 
 ---
 
-## Aditya's Personal Python Modules Master Handbook
+## 🛠️ Tools & Technologies
 
-**Link:** [Read the handbook](https://drive.google.com/drive/folders/1KsRBlBs0BPwhBn8mjhJlNWc3Eg_VbHGc)  
-_Still in progress. You can read it here,, suggest edits or improvements._
+- **Languages:** Python, C, C++
+- **Frameworks:** Django (learning)
+- **Other Areas:** DSA (in progress)
 
-## Skills
-
-- **Languages:** Python (just started , beginner-intermediate)
-- **Tools:** VS Code, Git, GitHub  
-- **Learning Areas:** OOPs, File handling, Data anylysis 
+> _Working on the basics. Mastery is miles away — but I’ve started walking._
 
 ---
 
-## What's Next
+## 📂 Personal Handbook
 
-- Dive into GUI and automation projects  
-- Start documenting my learning on GitHub  
-- Explore tech in a slow and consistent way
+I'm building my own **Python Modules Master Handbook** —  
+Simple, raw, and beginner-friendly.
+
+[📖 View it here](https://drive.google.com/drive/folders/1KsRBlBs0BPwhBn8mjhJlNWc3Eg_VbHGc)  
+_Always open to suggestions or edits._
 
 ---
 
-> _Just learning at my own pace. No rush, just growth._
+## 🔭 What's Next?
+
+- Continue Django + backend dev journey  
+- Get comfortable with C/C++ logic building  
+- Practice DSA consistently  
+- Learn by building small, useful things
+
+> _Not everything I write compiles, but everything I write teaches me something._
+
+---
+
+## 📌 Note
+
+I’m still learning.  
+This space will grow with me — slowly, but surely.
+
+---
