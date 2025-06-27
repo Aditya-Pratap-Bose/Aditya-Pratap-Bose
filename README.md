@@ -8,14 +8,17 @@ Will be pursuing graduation in tech soon. Meanwhile, experimenting, learning, bu
 
 ## 🛠️ Tools & Technologies
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya-Pratap-Bose&show_icons=true&count_private=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Pratap-Bose&layout=compact&theme=default)
-
-
 
 - **Languages:** Python, C, C++, HTML, CSS, JavaScript  
 - **Frameworks:** Django (learning)  
 - **Other Areas:** DSA (in progress)
+  
+## 📊 GitHub Stats & Language Usage
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-Pratap-Bose&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Pratap-Bose&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</p>
 
 > _Working on the basics. Mastery is miles away — but I’ve started walking._
 
