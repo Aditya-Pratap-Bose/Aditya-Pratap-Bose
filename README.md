@@ -8,8 +8,8 @@ Will be pursuing graduation in tech soon. Meanwhile, experimenting, learning, bu
 
 ## 🛠️ Tools & Technologies
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityapratapbose&show_icons=true&count_private=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityapratapbose&layout=compact&theme=default)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya-Pratap-Bose&show_icons=true&count_private=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Pratap-Bose&layout=compact&theme=default)
 
 
 
