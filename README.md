@@ -8,7 +8,9 @@ Will be pursuing graduation in tech soon. Meanwhile, experimenting, learning, bu
 
 ## 🛠️ Tools & Technologies
 
-![Tech Stack](https://skillicons.dev/icons?i=python,c,cpp,django,html,css,js)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
 
 - **Languages:** Python, C, C++, HTML, CSS, JavaScript  
 - **Frameworks:** Django (learning)  
