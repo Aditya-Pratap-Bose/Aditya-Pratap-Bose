@@ -8,8 +8,10 @@ Will be pursuing graduation in tech soon. Meanwhile, experimenting, learning, bu
 
 ## 🛠️ Tools & Technologies
 
-- **Languages:** Python, C, C++
-- **Frameworks:** Django (learning)
+![Tech Stack](https://skillicons.dev/icons?i=python,c,cpp,django,html,css,js)
+
+- **Languages:** Python, C, C++, HTML, CSS, JavaScript  
+- **Frameworks:** Django (learning)  
 - **Other Areas:** DSA (in progress)
 
 > _Working on the basics. Mastery is miles away — but I’ve started walking._
