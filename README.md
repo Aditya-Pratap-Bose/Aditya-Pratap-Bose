@@ -49,5 +49,6 @@ _Always open to suggestions or edits._
 
 I’m still learning.  
 This space will grow with me — slowly, but surely.
+Most of my projects are private for now — reach out if you’d like to know more.
 
 ---
