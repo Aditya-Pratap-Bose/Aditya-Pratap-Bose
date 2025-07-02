@@ -24,15 +24,6 @@ Will be pursuing graduation in tech soon. Meanwhile, experimenting, learning, bu
 
 ---
 
-## 📂 Personal Handbook
-
-I'm building my own **Python Modules Master Handbook** —  
-Simple, raw, and beginner-friendly.
-
-[📖 View it here](https://drive.google.com/drive/folders/1KsRBlBs0BPwhBn8mjhJlNWc3Eg_VbHGc)  
-_Always open to suggestions or edits._
-
----
 
 ## 🔭 What's Next?
 
