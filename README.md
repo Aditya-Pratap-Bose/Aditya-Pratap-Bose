@@ -228,7 +228,7 @@ Building **TADNS** — a lightweight, secure gateway at the core of my future ap
 <img src="./whatsapp.png" width=50 height=50 alt="whatsapp channel" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.githubcom/Aditya-Pratap-Bose" target="_blank">
+<a href="https://www.github.com/Aditya-Pratap-Bose" target="_blank">
 <img src="./github.png" width=50 height=50 alt="Aditya-Pratap-Bose" style="margin-bottom: 5px;" />
 </a>
 
